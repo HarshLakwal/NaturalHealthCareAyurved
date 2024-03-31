@@ -93,3 +93,5 @@
     
 })(jQuery);
 
+console.log('hello')
+
